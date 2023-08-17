@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ivan
 - 👀 I’m interested in connecting the world
 - 🌱 I’m currently studying at Iowa State 
-- 💞️ I’m looking to collaborate on gps projects
+- 💞️ I’m looking to collaborate on embedded/cv projects
 - 📫 How to reach me ialvaradosantoy@gmail.com
 
 <!---
